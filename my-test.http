@@ -1,0 +1,3 @@
+### Test the Fuel Routing API
+GET http://127.0.0.1:8000/api/route/?start=Los%20Angeles,%20CA&finish=New%20York,%20NY
+Content-Type: application/json
